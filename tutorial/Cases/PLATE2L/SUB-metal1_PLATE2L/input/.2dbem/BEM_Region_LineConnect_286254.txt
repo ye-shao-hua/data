@@ -1,0 +1,489 @@
+Points : (1.5575, 6.6515) (1.5575, 6.9395)
+This edge belong to Polygon ids : 53 
+
+Points : (1.5575, 6.0515) (1.5575, 6.6515)
+This edge belong to Polygon ids : 52 
+
+Points : (1.5575, 5.1015) (1.5575, 6.0515)
+This edge belong to Polygon ids : 51 
+
+Points : (1.5575, 5.0265) (1.5575, 5.1015)
+This edge belong to Polygon ids : 50 
+
+Points : (1.5575, 4.6265) (1.5575, 5.0265)
+This edge belong to Polygon ids : 49 
+
+Points : (1.5575, 4.5515) (1.5575, 4.6265)
+This edge belong to Polygon ids : 48 
+
+Points : (1.5575, 3.0515) (1.5575, 4.5515)
+This edge belong to Polygon ids : 47 
+
+Points : (1.5575, 2.9765) (1.5575, 3.0515)
+This edge belong to Polygon ids : 46 
+
+Points : (1.5575, 1.4765) (1.5575, 2.9765)
+This edge belong to Polygon ids : 45 
+
+Points : (1.5575, 1.4015) (1.5575, 1.4765)
+This edge belong to Polygon ids : 44 
+
+Points : (1.5575, 1.2745) (1.5575, 1.4015)
+This edge belong to Polygon ids : 43 
+
+Points : (1.5575, 1.2505) (1.5575, 1.2745)
+This edge belong to Polygon ids : 42 
+
+Points : (1.5575, 1.2355) (1.5575, 1.2505)
+This edge belong to Polygon ids : 41 
+
+Points : (1.5575, 1.2145) (1.5575, 1.2355)
+This edge belong to Polygon ids : 40 
+
+Points : (1.5575, 1.0875) (1.5575, 1.2145)
+This edge belong to Polygon ids : 39 
+
+Points : (1.5575, 1.0635) (1.5575, 1.0875)
+This edge belong to Polygon ids : 38 
+
+Points : (1.5575, 1.0485) (1.5575, 1.0635)
+This edge belong to Polygon ids : 37 
+
+Points : (1.5575, 1.0275) (1.5575, 1.0485)
+This edge belong to Polygon ids : 36 
+
+Points : (1.5575, 0.9005) (1.5575, 1.0275)
+This edge belong to Polygon ids : 35 
+
+Points : (1.5575, 0.8765) (1.5575, 0.9005)
+This edge belong to Polygon ids : 34 
+
+Points : (1.5575, 0.8615) (1.5575, 0.8765)
+This edge belong to Polygon ids : 33 
+
+Points : (1.5575, 0.8405) (1.5575, 0.8615)
+This edge belong to Polygon ids : 32 
+
+Points : (1.5575, 0.7135) (1.5575, 0.8405)
+This edge belong to Polygon ids : 31 
+
+Points : (1.5575, 0.6895) (1.5575, 0.7135)
+This edge belong to Polygon ids : 30 
+
+Points : (1.5575, 0.6745) (1.5575, 0.6895)
+This edge belong to Polygon ids : 29 
+
+Points : (1.5575, 0.6535) (1.5575, 0.6745)
+This edge belong to Polygon ids : 28 
+
+Points : (1.5575, 0.5265) (1.5575, 0.6535)
+This edge belong to Polygon ids : 27 
+
+Points : (1.5575, 0.5025) (1.5575, 0.5265)
+This edge belong to Polygon ids : 26 
+
+Points : (1.5575, 0.4875) (1.5575, 0.5025)
+This edge belong to Polygon ids : 25 
+
+Points : (1.5575, 0.4665) (1.5575, 0.4875)
+This edge belong to Polygon ids : 24 
+
+Points : (1.5575, 0.4065) (1.5575, 0.4665)
+This edge belong to Polygon ids : 23 
+
+Points : (1.5575, 0.3955) (1.5575, 0.4065)
+This edge belong to Polygon ids : 18 
+
+Points : (1.5575, 0.3705) (1.5575, 0.3955)
+This edge belong to Polygon ids : 13 
+
+Points : (1.5575, 0.2765) (1.5575, 0.3705)
+This edge belong to Polygon ids : 8 
+
+Points : (1.5575, 0.2665) (1.5575, 0.2765)
+This edge belong to Polygon ids : 7 
+
+Points : (1.5575, 0.001) (1.5575, 0.2665)
+This edge belong to Polygon ids : 6 
+
+Points : (1.5575, -0.001) (1.5575, 0.001)
+This edge belong to Polygon ids : 2 
+
+Points : (1.06208, 0.4665) (1.5575, 0.4665)
+This edge belong to Polygon ids : 23 24 
+
+Points : (1.05635, 0.4065) (1.5575, 0.4065)
+This edge belong to Polygon ids : 18 23 
+
+Points : (1.05635, 0.4065) (1.06208, 0.4665)
+This edge belong to Polygon ids : 5 23 
+
+Points : (1.0553, 0.3955) (1.5575, 0.3955)
+This edge belong to Polygon ids : 13 18 
+
+Points : (1.0553, 0.3955) (1.05635, 0.4065)
+This edge belong to Polygon ids : 5 18 
+
+Points : (1.05292, 0.3705) (1.5575, 0.3705)
+This edge belong to Polygon ids : 8 13 
+
+Points : (1.05292, 0.3705) (1.0553, 0.3955)
+This edge belong to Polygon ids : 5 13 
+
+Points : (1.01708, 0.3705) (1.05292, 0.3705)
+This edge belong to Polygon ids : 5 8 
+
+Points : (1.01708, 0.3705) (1.01469, 0.3955)
+This edge belong to Polygon ids : 5 12 
+
+Points : (1.01469, 0.3955) (1.01364, 0.4065)
+This edge belong to Polygon ids : 5 17 
+
+Points : (1.01364, 0.4065) (1.00792, 0.4665)
+This edge belong to Polygon ids : 5 22 
+
+Points : (1.00792, 0.4665) (1.06208, 0.4665)
+This edge belong to Polygon ids : 5 24 
+
+Points : (0.70208, 0.4665) (1.00792, 0.4665)
+This edge belong to Polygon ids : 22 24 
+
+Points : (0.696355, 0.4065) (1.01364, 0.4065)
+This edge belong to Polygon ids : 17 22 
+
+Points : (0.696355, 0.4065) (0.70208, 0.4665)
+This edge belong to Polygon ids : 4 22 
+
+Points : (0.695305, 0.3955) (1.01469, 0.3955)
+This edge belong to Polygon ids : 12 17 
+
+Points : (0.695305, 0.3955) (0.696355, 0.4065)
+This edge belong to Polygon ids : 4 17 
+
+Points : (0.69292, 0.3705) (1.01708, 0.3705)
+This edge belong to Polygon ids : 8 12 
+
+Points : (0.69292, 0.3705) (0.695305, 0.3955)
+This edge belong to Polygon ids : 4 12 
+
+Points : (0.65708, 0.3705) (0.69292, 0.3705)
+This edge belong to Polygon ids : 4 8 
+
+Points : (0.65708, 0.3705) (0.654695, 0.3955)
+This edge belong to Polygon ids : 4 11 
+
+Points : (0.654695, 0.3955) (0.653645, 0.4065)
+This edge belong to Polygon ids : 4 16 
+
+Points : (0.653645, 0.4065) (0.64792, 0.4665)
+This edge belong to Polygon ids : 4 21 
+
+Points : (0.64792, 0.4665) (0.70208, 0.4665)
+This edge belong to Polygon ids : 4 24 
+
+Points : (0.02708, 0.4665) (0.64792, 0.4665)
+This edge belong to Polygon ids : 21 24 
+
+Points : (0.021355, 0.4065) (0.653645, 0.4065)
+This edge belong to Polygon ids : 16 21 
+
+Points : (0.021355, 0.4065) (0.02708, 0.4665)
+This edge belong to Polygon ids : 0 21 
+
+Points : (0.020305, 0.3955) (0.654695, 0.3955)
+This edge belong to Polygon ids : 11 16 
+
+Points : (0.020305, 0.3955) (0.021355, 0.4065)
+This edge belong to Polygon ids : 0 16 
+
+Points : (0.01792, 0.3705) (0.65708, 0.3705)
+This edge belong to Polygon ids : 8 11 
+
+Points : (0.01792, 0.3705) (0.020305, 0.3955)
+This edge belong to Polygon ids : 0 11 
+
+Points : (0, 0.001) (1.5575, 0.001)
+This edge belong to Polygon ids : 2 6 
+
+Points : (0, -0.001) (1.5575, -0.001)
+This edge belong to Polygon ids : 2 
+
+Points : (0, -0.001) (0, 0.001)
+This edge belong to Polygon ids : 1 2 
+
+Points : (-0.01792, 0.3705) (0.01792, 0.3705)
+This edge belong to Polygon ids : 0 8 
+
+Points : (-0.01792, 0.3705) (-0.020305, 0.3955)
+This edge belong to Polygon ids : 0 10 
+
+Points : (-0.020305, 0.3955) (-0.021355, 0.4065)
+This edge belong to Polygon ids : 0 15 
+
+Points : (-0.021355, 0.4065) (-0.02708, 0.4665)
+This edge belong to Polygon ids : 0 20 
+
+Points : (-0.02708, 0.4665) (0.02708, 0.4665)
+This edge belong to Polygon ids : 0 24 
+
+Points : (-0.33292, 0.4665) (-0.02708, 0.4665)
+This edge belong to Polygon ids : 20 24 
+
+Points : (-0.338645, 0.4065) (-0.021355, 0.4065)
+This edge belong to Polygon ids : 15 20 
+
+Points : (-0.338645, 0.4065) (-0.33292, 0.4665)
+This edge belong to Polygon ids : 3 20 
+
+Points : (-0.339695, 0.3955) (-0.020305, 0.3955)
+This edge belong to Polygon ids : 10 15 
+
+Points : (-0.339695, 0.3955) (-0.338645, 0.4065)
+This edge belong to Polygon ids : 3 15 
+
+Points : (-0.34208, 0.3705) (-0.01792, 0.3705)
+This edge belong to Polygon ids : 8 10 
+
+Points : (-0.34208, 0.3705) (-0.339695, 0.3955)
+This edge belong to Polygon ids : 3 10 
+
+Points : (-0.37792, 0.3705) (-0.34208, 0.3705)
+This edge belong to Polygon ids : 3 8 
+
+Points : (-0.37792, 0.3705) (-0.380305, 0.3955)
+This edge belong to Polygon ids : 3 9 
+
+Points : (-0.380305, 0.3955) (-0.381355, 0.4065)
+This edge belong to Polygon ids : 3 14 
+
+Points : (-0.381355, 0.4065) (-0.38708, 0.4665)
+This edge belong to Polygon ids : 3 19 
+
+Points : (-0.38708, 0.4665) (-0.33292, 0.4665)
+This edge belong to Polygon ids : 3 24 
+
+Points : (-0.8825, 6.9395) (1.5575, 6.9395)
+This edge belong to Polygon ids : 53 
+
+Points : (-0.8825, 6.6515) (1.5575, 6.6515)
+This edge belong to Polygon ids : 52 53 
+
+Points : (-0.8825, 6.6515) (-0.8825, 6.9395)
+This edge belong to Polygon ids : 53 
+
+Points : (-0.8825, 6.0515) (1.5575, 6.0515)
+This edge belong to Polygon ids : 51 52 
+
+Points : (-0.8825, 6.0515) (-0.8825, 6.6515)
+This edge belong to Polygon ids : 52 
+
+Points : (-0.8825, 5.1015) (1.5575, 5.1015)
+This edge belong to Polygon ids : 50 51 
+
+Points : (-0.8825, 5.1015) (-0.8825, 6.0515)
+This edge belong to Polygon ids : 51 
+
+Points : (-0.8825, 5.0265) (1.5575, 5.0265)
+This edge belong to Polygon ids : 49 50 
+
+Points : (-0.8825, 5.0265) (-0.8825, 5.1015)
+This edge belong to Polygon ids : 50 
+
+Points : (-0.8825, 4.6265) (1.5575, 4.6265)
+This edge belong to Polygon ids : 48 49 
+
+Points : (-0.8825, 4.6265) (-0.8825, 5.0265)
+This edge belong to Polygon ids : 49 
+
+Points : (-0.8825, 4.5515) (1.5575, 4.5515)
+This edge belong to Polygon ids : 47 48 
+
+Points : (-0.8825, 4.5515) (-0.8825, 4.6265)
+This edge belong to Polygon ids : 48 
+
+Points : (-0.8825, 3.0515) (1.5575, 3.0515)
+This edge belong to Polygon ids : 46 47 
+
+Points : (-0.8825, 3.0515) (-0.8825, 4.5515)
+This edge belong to Polygon ids : 47 
+
+Points : (-0.8825, 2.9765) (1.5575, 2.9765)
+This edge belong to Polygon ids : 45 46 
+
+Points : (-0.8825, 2.9765) (-0.8825, 3.0515)
+This edge belong to Polygon ids : 46 
+
+Points : (-0.8825, 1.4765) (1.5575, 1.4765)
+This edge belong to Polygon ids : 44 45 
+
+Points : (-0.8825, 1.4765) (-0.8825, 2.9765)
+This edge belong to Polygon ids : 45 
+
+Points : (-0.8825, 1.4015) (1.5575, 1.4015)
+This edge belong to Polygon ids : 43 44 
+
+Points : (-0.8825, 1.4015) (-0.8825, 1.4765)
+This edge belong to Polygon ids : 44 
+
+Points : (-0.8825, 1.2745) (1.5575, 1.2745)
+This edge belong to Polygon ids : 42 43 
+
+Points : (-0.8825, 1.2745) (-0.8825, 1.4015)
+This edge belong to Polygon ids : 43 
+
+Points : (-0.8825, 1.2505) (1.5575, 1.2505)
+This edge belong to Polygon ids : 41 42 
+
+Points : (-0.8825, 1.2505) (-0.8825, 1.2745)
+This edge belong to Polygon ids : 42 
+
+Points : (-0.8825, 1.2355) (1.5575, 1.2355)
+This edge belong to Polygon ids : 40 41 
+
+Points : (-0.8825, 1.2355) (-0.8825, 1.2505)
+This edge belong to Polygon ids : 41 
+
+Points : (-0.8825, 1.2145) (1.5575, 1.2145)
+This edge belong to Polygon ids : 39 40 
+
+Points : (-0.8825, 1.2145) (-0.8825, 1.2355)
+This edge belong to Polygon ids : 40 
+
+Points : (-0.8825, 1.0875) (1.5575, 1.0875)
+This edge belong to Polygon ids : 38 39 
+
+Points : (-0.8825, 1.0875) (-0.8825, 1.2145)
+This edge belong to Polygon ids : 39 
+
+Points : (-0.8825, 1.0635) (1.5575, 1.0635)
+This edge belong to Polygon ids : 37 38 
+
+Points : (-0.8825, 1.0635) (-0.8825, 1.0875)
+This edge belong to Polygon ids : 38 
+
+Points : (-0.8825, 1.0485) (1.5575, 1.0485)
+This edge belong to Polygon ids : 36 37 
+
+Points : (-0.8825, 1.0485) (-0.8825, 1.0635)
+This edge belong to Polygon ids : 37 
+
+Points : (-0.8825, 1.0275) (1.5575, 1.0275)
+This edge belong to Polygon ids : 35 36 
+
+Points : (-0.8825, 1.0275) (-0.8825, 1.0485)
+This edge belong to Polygon ids : 36 
+
+Points : (-0.8825, 0.9005) (1.5575, 0.9005)
+This edge belong to Polygon ids : 34 35 
+
+Points : (-0.8825, 0.9005) (-0.8825, 1.0275)
+This edge belong to Polygon ids : 35 
+
+Points : (-0.8825, 0.8765) (1.5575, 0.8765)
+This edge belong to Polygon ids : 33 34 
+
+Points : (-0.8825, 0.8765) (-0.8825, 0.9005)
+This edge belong to Polygon ids : 34 
+
+Points : (-0.8825, 0.8615) (1.5575, 0.8615)
+This edge belong to Polygon ids : 32 33 
+
+Points : (-0.8825, 0.8615) (-0.8825, 0.8765)
+This edge belong to Polygon ids : 33 
+
+Points : (-0.8825, 0.8405) (1.5575, 0.8405)
+This edge belong to Polygon ids : 31 32 
+
+Points : (-0.8825, 0.8405) (-0.8825, 0.8615)
+This edge belong to Polygon ids : 32 
+
+Points : (-0.8825, 0.7135) (1.5575, 0.7135)
+This edge belong to Polygon ids : 30 31 
+
+Points : (-0.8825, 0.7135) (-0.8825, 0.8405)
+This edge belong to Polygon ids : 31 
+
+Points : (-0.8825, 0.6895) (1.5575, 0.6895)
+This edge belong to Polygon ids : 29 30 
+
+Points : (-0.8825, 0.6895) (-0.8825, 0.7135)
+This edge belong to Polygon ids : 30 
+
+Points : (-0.8825, 0.6745) (1.5575, 0.6745)
+This edge belong to Polygon ids : 28 29 
+
+Points : (-0.8825, 0.6745) (-0.8825, 0.6895)
+This edge belong to Polygon ids : 29 
+
+Points : (-0.8825, 0.6535) (1.5575, 0.6535)
+This edge belong to Polygon ids : 27 28 
+
+Points : (-0.8825, 0.6535) (-0.8825, 0.6745)
+This edge belong to Polygon ids : 28 
+
+Points : (-0.8825, 0.5265) (1.5575, 0.5265)
+This edge belong to Polygon ids : 26 27 
+
+Points : (-0.8825, 0.5265) (-0.8825, 0.6535)
+This edge belong to Polygon ids : 27 
+
+Points : (-0.8825, 0.5025) (1.5575, 0.5025)
+This edge belong to Polygon ids : 25 26 
+
+Points : (-0.8825, 0.5025) (-0.8825, 0.5265)
+This edge belong to Polygon ids : 26 
+
+Points : (-0.8825, 0.4875) (1.5575, 0.4875)
+This edge belong to Polygon ids : 24 25 
+
+Points : (-0.8825, 0.4875) (-0.8825, 0.5025)
+This edge belong to Polygon ids : 25 
+
+Points : (-0.8825, 0.4665) (-0.38708, 0.4665)
+This edge belong to Polygon ids : 19 24 
+
+Points : (-0.8825, 0.4665) (-0.8825, 0.4875)
+This edge belong to Polygon ids : 24 
+
+Points : (-0.8825, 0.4065) (-0.381355, 0.4065)
+This edge belong to Polygon ids : 14 19 
+
+Points : (-0.8825, 0.4065) (-0.8825, 0.4665)
+This edge belong to Polygon ids : 19 
+
+Points : (-0.8825, 0.3955) (-0.380305, 0.3955)
+This edge belong to Polygon ids : 9 14 
+
+Points : (-0.8825, 0.3955) (-0.8825, 0.4065)
+This edge belong to Polygon ids : 14 
+
+Points : (-0.8825, 0.3705) (-0.37792, 0.3705)
+This edge belong to Polygon ids : 8 9 
+
+Points : (-0.8825, 0.3705) (-0.8825, 0.3955)
+This edge belong to Polygon ids : 9 
+
+Points : (-0.8825, 0.2765) (1.5575, 0.2765)
+This edge belong to Polygon ids : 7 8 
+
+Points : (-0.8825, 0.2765) (-0.8825, 0.3705)
+This edge belong to Polygon ids : 8 
+
+Points : (-0.8825, 0.2665) (1.5575, 0.2665)
+This edge belong to Polygon ids : 6 7 
+
+Points : (-0.8825, 0.2665) (-0.8825, 0.2765)
+This edge belong to Polygon ids : 7 
+
+Points : (-0.8825, 0.001) (0, 0.001)
+This edge belong to Polygon ids : 1 6 
+
+Points : (-0.8825, 0.001) (-0.8825, 0.2665)
+This edge belong to Polygon ids : 6 
+
+Points : (-0.8825, -0.001) (0, -0.001)
+This edge belong to Polygon ids : 1 
+
+Points : (-0.8825, -0.001) (-0.8825, 0.001)
+This edge belong to Polygon ids : 1 
+

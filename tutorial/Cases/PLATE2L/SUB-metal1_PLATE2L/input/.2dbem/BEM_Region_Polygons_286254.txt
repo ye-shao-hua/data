@@ -1,0 +1,264 @@
+Polygon id : 0
+c1  Points:
+(-0.01792, 0.3705) (0.01792, 0.3705) (0.020305, 0.3955) (0.021355, 0.4065) (0.02708, 0.4665) (-0.02708, 0.4665) (-0.021355, 0.4065) (-0.020305, 0.3955) 
+
+Polygon id : 1
+botleft  Points:
+(-0.8825, -0.001) (0, -0.001) (0, 0.001) (-0.8825, 0.001) 
+
+Polygon id : 2
+botright  Points:
+(0, -0.001) (1.5575, -0.001) (1.5575, 0.001) (0, 0.001) 
+
+Polygon id : 3
+lEnv  Points:
+(-0.37792, 0.3705) (-0.34208, 0.3705) (-0.339695, 0.3955) (-0.338645, 0.4065) (-0.33292, 0.4665) (-0.38708, 0.4665) (-0.381355, 0.4065) (-0.380305, 0.3955) 
+
+Polygon id : 4
+c2  Points:
+(0.65708, 0.3705) (0.69292, 0.3705) (0.695305, 0.3955) (0.696355, 0.4065) (0.70208, 0.4665) (0.64792, 0.4665) (0.653645, 0.4065) (0.654695, 0.3955) 
+
+Polygon id : 5
+rEnv  Points:
+(1.01708, 0.3705) (1.05292, 0.3705) (1.0553, 0.3955) (1.05635, 0.4065) (1.06208, 0.4665) (1.00792, 0.4665) (1.01364, 0.4065) (1.01469, 0.3955) 
+
+Polygon id : 6
+FOXA+FOXB+TOX  Points:
+(-0.8825, 0.001) (0, 0.001) (1.5575, 0.001) (1.5575, 0.2665) (-0.8825, 0.2665) 
+relative permittivity = 4
+
+Polygon id : 7
+ILD1a  Points:
+(-0.8825, 0.2665) (1.5575, 0.2665) (1.5575, 0.2765) (-0.8825, 0.2765) 
+relative permittivity = 7
+
+Polygon id : 8
+ILD1b1+ILD1b2  Points:
+(-0.8825, 0.2765) (1.5575, 0.2765) (1.5575, 0.3705) (1.05292, 0.3705) (1.01708, 0.3705) (0.69292, 0.3705) (0.65708, 0.3705) (0.01792, 0.3705) (-0.01792, 0.3705) (-0.34208, 0.3705) (-0.37792, 0.3705) (-0.8825, 0.3705) 
+relative permittivity = 4
+
+Polygon id : 9
+ILD1b3  Points:
+(-0.8825, 0.3705) (-0.37792, 0.3705) (-0.380305, 0.3955) (-0.8825, 0.3955) 
+relative permittivity = 4
+
+Polygon id : 10
+ILD1b3  Points:
+(-0.34208, 0.3705) (-0.01792, 0.3705) (-0.020305, 0.3955) (-0.339695, 0.3955) 
+relative permittivity = 4
+
+Polygon id : 11
+ILD1b3  Points:
+(0.01792, 0.3705) (0.65708, 0.3705) (0.654695, 0.3955) (0.020305, 0.3955) 
+relative permittivity = 4
+
+Polygon id : 12
+ILD1b3  Points:
+(0.69292, 0.3705) (1.01708, 0.3705) (1.01469, 0.3955) (0.695305, 0.3955) 
+relative permittivity = 4
+
+Polygon id : 13
+ILD1b3  Points:
+(1.05292, 0.3705) (1.5575, 0.3705) (1.5575, 0.3955) (1.0553, 0.3955) 
+relative permittivity = 4
+
+Polygon id : 14
+IMD1a  Points:
+(-0.8825, 0.3955) (-0.380305, 0.3955) (-0.381355, 0.4065) (-0.8825, 0.4065) 
+relative permittivity = 5.2
+
+Polygon id : 15
+IMD1a  Points:
+(-0.339695, 0.3955) (-0.020305, 0.3955) (-0.021355, 0.4065) (-0.338645, 0.4065) 
+relative permittivity = 5.2
+
+Polygon id : 16
+IMD1a  Points:
+(0.020305, 0.3955) (0.654695, 0.3955) (0.653645, 0.4065) (0.021355, 0.4065) 
+relative permittivity = 5.2
+
+Polygon id : 17
+IMD1a  Points:
+(0.695305, 0.3955) (1.01469, 0.3955) (1.01364, 0.4065) (0.696355, 0.4065) 
+relative permittivity = 5.2
+
+Polygon id : 18
+IMD1a  Points:
+(1.0553, 0.3955) (1.5575, 0.3955) (1.5575, 0.4065) (1.05635, 0.4065) 
+relative permittivity = 5.2
+
+Polygon id : 19
+IMD1b  Points:
+(-0.8825, 0.4065) (-0.381355, 0.4065) (-0.38708, 0.4665) (-0.8825, 0.4665) 
+relative permittivity = 2.8
+
+Polygon id : 20
+IMD1b  Points:
+(-0.338645, 0.4065) (-0.021355, 0.4065) (-0.02708, 0.4665) (-0.33292, 0.4665) 
+relative permittivity = 2.8
+
+Polygon id : 21
+IMD1b  Points:
+(0.021355, 0.4065) (0.653645, 0.4065) (0.64792, 0.4665) (0.02708, 0.4665) 
+relative permittivity = 2.8
+
+Polygon id : 22
+IMD1b  Points:
+(0.696355, 0.4065) (1.01364, 0.4065) (1.00792, 0.4665) (0.70208, 0.4665) 
+relative permittivity = 2.8
+
+Polygon id : 23
+IMD1b  Points:
+(1.05635, 0.4065) (1.5575, 0.4065) (1.5575, 0.4665) (1.06208, 0.4665) 
+relative permittivity = 2.8
+
+Polygon id : 24
+IMD2a  Points:
+(-0.8825, 0.4665) (-0.38708, 0.4665) (-0.33292, 0.4665) (-0.02708, 0.4665) (0.02708, 0.4665) (0.64792, 0.4665) (0.70208, 0.4665) (1.00792, 0.4665) (1.06208, 0.4665) (1.5575, 0.4665) (1.5575, 0.4875) (-0.8825, 0.4875) 
+relative permittivity = 5.2
+
+Polygon id : 25
+IMD2b  Points:
+(-0.8825, 0.4875) (1.5575, 0.4875) (1.5575, 0.5025) (-0.8825, 0.5025) 
+relative permittivity = 4.2
+
+Polygon id : 26
+IMD2c  Points:
+(-0.8825, 0.5025) (1.5575, 0.5025) (1.5575, 0.5265) (-0.8825, 0.5265) 
+relative permittivity = 3.28
+
+Polygon id : 27
+IMD2d1+IMD2d2  Points:
+(-0.8825, 0.5265) (1.5575, 0.5265) (1.5575, 0.6535) (-0.8825, 0.6535) 
+relative permittivity = 2.65
+
+Polygon id : 28
+IMD3a  Points:
+(-0.8825, 0.6535) (1.5575, 0.6535) (1.5575, 0.6745) (-0.8825, 0.6745) 
+relative permittivity = 5.2
+
+Polygon id : 29
+IMD3b  Points:
+(-0.8825, 0.6745) (1.5575, 0.6745) (1.5575, 0.6895) (-0.8825, 0.6895) 
+relative permittivity = 4.2
+
+Polygon id : 30
+IMD3c  Points:
+(-0.8825, 0.6895) (1.5575, 0.6895) (1.5575, 0.7135) (-0.8825, 0.7135) 
+relative permittivity = 3.28
+
+Polygon id : 31
+IMD3d1+IMD3d2  Points:
+(-0.8825, 0.7135) (1.5575, 0.7135) (1.5575, 0.8405) (-0.8825, 0.8405) 
+relative permittivity = 2.65
+
+Polygon id : 32
+IMD4a  Points:
+(-0.8825, 0.8405) (1.5575, 0.8405) (1.5575, 0.8615) (-0.8825, 0.8615) 
+relative permittivity = 5.2
+
+Polygon id : 33
+IMD4b  Points:
+(-0.8825, 0.8615) (1.5575, 0.8615) (1.5575, 0.8765) (-0.8825, 0.8765) 
+relative permittivity = 4.2
+
+Polygon id : 34
+IMD4c  Points:
+(-0.8825, 0.8765) (1.5575, 0.8765) (1.5575, 0.9005) (-0.8825, 0.9005) 
+relative permittivity = 3.28
+
+Polygon id : 35
+IMD4d1+IMD4d2  Points:
+(-0.8825, 0.9005) (1.5575, 0.9005) (1.5575, 1.0275) (-0.8825, 1.0275) 
+relative permittivity = 2.65
+
+Polygon id : 36
+IMD5a  Points:
+(-0.8825, 1.0275) (1.5575, 1.0275) (1.5575, 1.0485) (-0.8825, 1.0485) 
+relative permittivity = 5.2
+
+Polygon id : 37
+IMD5b  Points:
+(-0.8825, 1.0485) (1.5575, 1.0485) (1.5575, 1.0635) (-0.8825, 1.0635) 
+relative permittivity = 4.2
+
+Polygon id : 38
+IMD5c  Points:
+(-0.8825, 1.0635) (1.5575, 1.0635) (1.5575, 1.0875) (-0.8825, 1.0875) 
+relative permittivity = 3.28
+
+Polygon id : 39
+IMD5d1+IMD5d2  Points:
+(-0.8825, 1.0875) (1.5575, 1.0875) (1.5575, 1.2145) (-0.8825, 1.2145) 
+relative permittivity = 2.65
+
+Polygon id : 40
+IMD6a  Points:
+(-0.8825, 1.2145) (1.5575, 1.2145) (1.5575, 1.2355) (-0.8825, 1.2355) 
+relative permittivity = 5.2
+
+Polygon id : 41
+IMD6b  Points:
+(-0.8825, 1.2355) (1.5575, 1.2355) (1.5575, 1.2505) (-0.8825, 1.2505) 
+relative permittivity = 4.2
+
+Polygon id : 42
+IMD6c  Points:
+(-0.8825, 1.2505) (1.5575, 1.2505) (1.5575, 1.2745) (-0.8825, 1.2745) 
+relative permittivity = 3.28
+
+Polygon id : 43
+IMD6d1+IMD6d2  Points:
+(-0.8825, 1.2745) (1.5575, 1.2745) (1.5575, 1.4015) (-0.8825, 1.4015) 
+relative permittivity = 2.65
+
+Polygon id : 44
+IMD7a  Points:
+(-0.8825, 1.4015) (1.5575, 1.4015) (1.5575, 1.4765) (-0.8825, 1.4765) 
+relative permittivity = 5.2
+
+Polygon id : 45
+IMD7b1+IMD7b2  Points:
+(-0.8825, 1.4765) (1.5575, 1.4765) (1.5575, 2.9765) (-0.8825, 2.9765) 
+relative permittivity = 4.2
+
+Polygon id : 46
+IMD8a  Points:
+(-0.8825, 2.9765) (1.5575, 2.9765) (1.5575, 3.0515) (-0.8825, 3.0515) 
+relative permittivity = 5.2
+
+Polygon id : 47
+IMD8b1+IMD8b2  Points:
+(-0.8825, 3.0515) (1.5575, 3.0515) (1.5575, 4.5515) (-0.8825, 4.5515) 
+relative permittivity = 4.2
+
+Polygon id : 48
+PASS1  Points:
+(-0.8825, 4.5515) (1.5575, 4.5515) (1.5575, 4.6265) (-0.8825, 4.6265) 
+relative permittivity = 7
+
+Polygon id : 49
+PASS2  Points:
+(-0.8825, 4.6265) (1.5575, 4.6265) (1.5575, 5.0265) (-0.8825, 5.0265) 
+relative permittivity = 4.2
+
+Polygon id : 50
+PASS3  Points:
+(-0.8825, 5.0265) (1.5575, 5.0265) (1.5575, 5.1015) (-0.8825, 5.1015) 
+relative permittivity = 7
+
+Polygon id : 51
+PASS4+PASS5  Points:
+(-0.8825, 5.1015) (1.5575, 5.1015) (1.5575, 6.0515) (-0.8825, 6.0515) 
+relative permittivity = 4.2
+
+Polygon id : 52
+PASS6  Points:
+(-0.8825, 6.0515) (1.5575, 6.0515) (1.5575, 6.6515) (-0.8825, 6.6515) 
+relative permittivity = 7
+
+Polygon id : 53
+air_Layer  Points:
+(-0.8825, 6.6515) (1.5575, 6.6515) (1.5575, 6.9395) (-0.8825, 6.9395) 
+relative permittivity = 1
+
